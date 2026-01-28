@@ -5,14 +5,14 @@
 
 ---
 
-## 🏃 [OpenRun](https://github.com/stopcircle/OpenRun) &nbsp; ![Status](https://img.shields.io/badge/Status-진행중-brightgreen)
+## 🏃 [OpenRun](https://github.com/stopcircle/Project_OpenRun) &nbsp; ![Status](https://img.shields.io/badge/Status-진행중-brightgreen)
 > **선착순 예매 플랫폼**
 >
 > 현재 기획 및 초기 개발 단계에 있는 프로젝트입니다.
 
 <br>
 
-## 🚗 [EV-Safer](https://github.com/stopcircle/EV-Safer)
+## 🚗 [EV-Safer](https://github.com/stopcircle/Project_EV-Safer)
 > **전기차 화재 안전 알림 앱**
 >
 > *"지하 주차장 전기차 화재, 골든타임을 지키다."*
@@ -22,7 +22,7 @@
 
 <br>
 
-## 🌐 [WSCD](https://github.com/stopcircle/WSCD)
+## 🌐 [WSCD](https://github.com/stopcircle/Project_WSCD)
 > **웹 기반 실시간 메타버스 플랫폼**
 >
 > *"공간의 제약을 넘어, 언제 어디서나 소통하다."*
