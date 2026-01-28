@@ -35,5 +35,6 @@
 ## 🎓 [Acorn_Project_LearnIT](https://github.com/stopcircle/Acorn_Project_LearnIT)
 > **Acorn 아카데미 팀 프로젝트**
 >
+> * **핵심 기능**: 올인원 강의 시스템, GitHub 기반 역량 분석
 > * **기술 스택**: Java, Spring Boot, Gradle
 > * 학습 관리 및 커뮤니티 기능을 포함한 웹 애플리케이션 프로젝트입니다.
